@@ -13,7 +13,9 @@ You may have already been wondering to yourself what a cool cat technical geek l
 
 ## Stats is **cool**
 
-You heard me. When you study stats, you become a cool cat like me. You learn that a posterior is more than just something's backside, it's actually a probability distribution.
+You heard me. When you study stats, you become a cool cat like me. You learn that a posterior is more than just something's backside, it's actually a probability distribution that could have curves like this building
+
+![Figure](https://github.com/sspackman99/stat386-projects/raw/main/assets/images/curves.png)
 
 
 ### Markdown
