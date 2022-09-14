@@ -21,3 +21,8 @@ You heard me. When you study stats, you become a cool cat like me. You learn tha
 ### Markdown
 
 You also learn *awesome* markdown skills and how to make a blog!
+
+
+# Come Back for More
+
+Make sure to keep coming back to my blog here for more!
