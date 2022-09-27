@@ -25,7 +25,7 @@ My goal is to share what I know about data science with you with the hope of lea
 domain: "datasciencemagic.org"
 baseurl: "" # keep this the same or change it to the name of the repository 
 url: "https://www.datasciencemagic.org/" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/good_vibes.jpeg"
+image: "www.datasciencemagic.org/assets/images/good_vibes.jpeg"
 author: Sam Spackman
 copyright: SS # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
