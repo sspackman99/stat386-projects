@@ -23,7 +23,7 @@ email: sspackman99@gmail.com # Add your email
 description: "Welcome to Data Science Magic! This blog is the creation of a humble traveler in the world of data science, just like you.
 My goal is to share what I know about data science with you with the hope of learning a little more myself as I go along. Enjoy!"
 domain: "datasciencemagic.org"
-baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
+baseurl: "" # keep this the same or change it to the name of the repository 
 url: "https://www.datasciencemagic.org/" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/good_vibes.jpeg"
 author: Sam Spackman
