@@ -45,7 +45,7 @@ DNS stands for "Domain Name System". DNS acts like a phonebook for the internet,
 
 You can do this by navigating to your DNS provider (in most cases this will be your domain registrar) and creating a new record. DNS records come in many different shapes and sizes. In this example I first created four A-type records so readers heading to "datasciencemagic.org" will arrive at the correct site, then I created a CNAME record so that "www.datasciencemagic.org" will also work.
 
-<img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/configure_DNS_google.png" alt="" style="width:800px;"/>
+<img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/DNS_Google.png" alt="" style="width:800px;"/>
 
 To check that you configured the DNS settings correctly, use the command below in your terminal.
 
@@ -53,7 +53,7 @@ To check that you configured the DNS settings correctly, use the command below i
 
 It should reurn a result similar to this.
 
-<img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/check_DNS_terminal.png" alt="" style="width:600px;"/>
+<img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/DNS_terminal.png" alt="" style="width:600px;"/>
 
 ### Step 4: Configure Your DNS Settings With Your Website Host
 
