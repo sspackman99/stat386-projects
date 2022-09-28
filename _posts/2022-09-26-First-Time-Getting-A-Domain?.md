@@ -10,9 +10,10 @@ image: /assets/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png
 So, you just got the keys to your own brand new website, but the automated domain names that your website hosting service is giving you just aren't quite cutting it.
 I understand, and I am here to help you get set up with your own custom domain in five easy steps.
 
-##### First, A Heads Up
+## First, A Heads Up
 
 <img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/jana-knorr-d-JNCzsRDFE-unsplash.png" alt="" style="width:400px;"/>
+
 
 I use Github Pages to host my website. There are certain nuances between web hosting organizations, so to keep everyone interested and happy I will give examples in general terms.
 If you can't seem to find the settings that I mention here then you may need to look on forums or other sites for more help with the intricacies of the service you are using.
@@ -31,7 +32,9 @@ For more information regarding different domain registrars you can take a look a
 
 One of the first things the domain registrar will have you do is search whether your desired domain is available.
 
+
 <img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/google_domains.png" alt="" style="width:800px;"/>
+
 
 They may offer you special options, such as a specialty extension (e.g. datamagic.science or datascience.magic) or bundles where you may purchase several variations at once for a discount (e.g. datasciencemagic.com AND datasciencemagic.net AND datasciencemagic.us). Some options may be cheaper than others, this is because a domain may already be taken or the registrar believes that it may be more valuable than other domains. Who knew land prospecting would exist on the internet, too? :P
 
