@@ -59,9 +59,9 @@ It should reurn a result similar to this.
 
 Now that readers can type in your domain name and they will be pointed to your site, you need to make sure that your website host is expecting them. Simply navigate to the settings of your website host and find where you can enter in your new custom domain. Here is an example of what a setting like that could look like in Github Pages.
 
-<img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/Github_DNS.png" alt="" style="width:800px;"/>
+<img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/Github_DNS.png" alt="" style="width:1000px;"/>
 
-**If you are also using Github Pages for your website, [this site].(https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) may be very helpful for you to configure your DNS settings. If you're not using Github Pages, they may also still help you understand the concepts of configuring DNS settings*
+**If you are also using Github Pages for your website, [this site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) may be very helpful for you to configure your DNS settings. If you're not using Github Pages, they may also still help you understand the concepts of configuring DNS settings*
 
 ### Step 5: Bask In The Glory Of Your Technological Genius
 
