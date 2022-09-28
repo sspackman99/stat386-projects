@@ -35,7 +35,7 @@ One of the first things the domain registrar will have you do is search whether 
 
 They may offer you special options, such as a specialty extension (e.g. datamagic.science or datascience.magic) or bundles where you may purchase several variations at once for a discount (e.g. datasciencemagic.com AND datasciencemagic.net AND datasciencemagic.us). Some options may be cheaper than others, this is because a domain may already be taken or the registrar believes that it may be more valuable than other domains. Who knew land prospecting would exist on the internet, too? :P
 
-[This site].(https://www.pcmag.com/news/how-to-register-a-domain-name-for-your-website) can be very helpful if you want more information on how to register/purchase a new custom domain
+[This site](https://www.pcmag.com/news/how-to-register-a-domain-name-for-your-website) can be very helpful if you want more information on how to register/purchase a new custom domain
 
 ### Step 3: Configure Your DNS Settings With Your DNS Provider
 
