@@ -7,7 +7,7 @@ description: I got my hands a little dirty getting some soil data in preparation
 image: /assets/images/soil_hand.png
 ---
 
-August 16, 2008 is a very significant day in my life. To be perfectly candid with you, I can't actually remember everything I did that day. But the fact of the matter is I probably spent that whole day playing in the mud. Maybe I was catching frogs next to a stream, or playing with my Tonka trucks in the big piles of dirt that machines my toys were modeled after had left behind after a day’s work in a developing Nebraska neighborhood. I’m sure most any kid growing up in the rural midwest has days like that they can look back on fondly; they may not be able to remember all the nitty gritty details of the day’s events, but they can remember the fun they had in the dirt.
+August 16, 2008 is a very significant day in my life. To be perfectly candid with you, I can't actually remember everything I did that day. But the fact of the matter is I probably spent that whole day playing in the mud. Maybe I was catching frogs next to a stream, or playing with my Tonka trucks in the big piles of dirt left from neighborhood construction. I’m sure most any kid growing up in the rural midwest has days like that they can look back on fondly; they may not be able to remember all the nitty gritty details of the day’s events, but they can remember the fun they had in the dirt.
 
 It’s memories like this that inspired the creation of the newest chapter in the life of Data Science Magic. This post is all about gathering data from the USDA’s Web Soil Survey.
 
