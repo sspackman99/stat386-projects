@@ -32,11 +32,11 @@ Fortunately for us, as data scientists we don’t have to worry about using clum
 
 The only hitch is that for this specific project I didn’t want to use R, I wanted to use python. This required some finagling on my part. I ended up going into the actual code behind the soilDB function and translating it into python (If you wanted to go a different route the WSS provides other documentation explaining their API and how to access it [here](https://sdmdataaccess.nrcs.usda.gov/)). 
 
-That meant turning this
+That meant turning this:
 
 <img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/soilDB_rcode.png" alt="" style="width:1000px;"/>
 
-into this
+Into this:
 
 
 <img src="https://github.com/sspackman99/stat386-projects/raw/main/assets/images/soilquery_py.png" alt="" style="width:1000px;"/>
